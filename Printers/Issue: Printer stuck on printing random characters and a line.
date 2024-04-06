@@ -1,0 +1,23 @@
+# **Issue**: Printer stuck on printing random characters and a line.
+
+**Printer Troubleshooting Documentation**
+
+**Steps Taken**:
+
+1. Cleaned toner cartridge, rollers, and paper path.
+2. Replaced toner cartridge and paper roll.
+3. Reset printing parameters and performed factory reset.
+4. Power cycled printer and restarted spooler service.
+5. Installed latest firmware and drivers.
+
+**Outcome**: Issue persisted; fuser suspected.
+
+**Resolution: Replaced fuser unit.**
+
+**Result**: Problem resolved after fuser replacement.
+
+**Conclusion**: Fuser replacement resolved printing issue of random characters and a line. Regular maintenance and prompt component replacement are essential for printer performance.
+
+![h](![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f2deec40-422a-48d8-95b2-432e37b0ec2f/722d7af2-dc6b-4a6c-a1d1-709367f1d888/Untitled.png))
+
+
